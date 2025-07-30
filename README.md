@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Tushar Das!
 
-🎓 I'm a BCA student at Parul University, passionate about building smart, real-world software solutions using Python, PHP, and web technologies. I'm always eager to learn new tech and collaborate on exciting projects.
+🎓 I'm a BCA graduate from Parul University, passionate about building smart, real-world software solutions using Python, PHP, and web technologies. I'm always eager to learn new tech and collaborate on exciting projects.
 
 ---
 
